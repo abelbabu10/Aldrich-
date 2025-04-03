@@ -14,7 +14,7 @@ scanf("%d",&n);
 printf("\nenter details:\n");
 for(i=0;i<n;i++)
 {
-printf("Name?:");
+printf("name?:");
 scanf("%s",emp[i].name);
 printf("ID?:");
 scanf("%d",&emp[i].empid);
